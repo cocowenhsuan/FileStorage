@@ -1,0 +1,26 @@
+[
+    {"id":"A001" , "color":"太空灰色" , "storage":"64GB", "network":"Wi-Fi","price":18900},
+    {"id":"A002" , "color":"太空灰色" , "storage":"64GB", "network":"Cellular","price":23200},
+    {"id":"A003" , "color":"太空灰色" , "storage":"256GB", "network":"Wi-Fi","price":23900},
+    {"id":"A004" , "color":"太空灰色" , "storage":"256GB", "network":"Cellular","price":28200},
+
+    {"id":"B001" , "color":"銀色" , "storage":"64GB", "network":"Wi-Fi","price":18900},
+    {"id":"B002" , "color":"銀色" , "storage":"64GB", "network":"Cellular","price":23200},
+    {"id":"B003" , "color":"銀色" , "storage":"256GB", "network":"Wi-Fi","price":23900},
+    {"id":"B004" , "color":"銀色" , "storage":"256GB", "network":"Cellular","price":28200},
+    
+    {"id":"C001" , "color":"玫瑰金色" , "storage":"64GB", "network":"Wi-Fi","price":18900},
+    {"id":"C002" , "color":"玫瑰金色" , "storage":"64GB", "network":"Cellular","price":23200},
+    {"id":"C003" , "color":"玫瑰金色" , "storage":"256GB", "network":"Wi-Fi","price":23900},
+    {"id":"C004" , "color":"玫瑰金色" , "storage":"256GB", "network":"Cellular","price":28200},
+
+    {"id":"D001" , "color":"綠色" , "storage":"64GB", "network":"Wi-Fi","price":18900},
+    {"id":"D002" , "color":"綠色" , "storage":"64GB", "network":"Cellular","price":23200},
+    {"id":"D003" , "color":"綠色" , "storage":"256GB", "network":"Wi-Fi","price":23900},
+    {"id":"D004" , "color":"綠色" , "storage":"256GB", "network":"Cellular","price":28200},
+
+    {"id":"E001" , "color":"天藍色" , "storage":"64GB", "network":"Wi-Fi","price":18900},
+    {"id":"E002" , "color":"天藍色" , "storage":"64GB", "network":"Cellular","price":23200},
+    {"id":"E003" , "color":"天藍色" , "storage":"256GB", "network":"Wi-Fi","price":23900},
+    {"id":"E004" , "color":"天藍色" , "storage":"256GB", "network":"Cellular","price":28200}    
+]
